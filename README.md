@@ -1,4 +1,4 @@
-openbook
-========
+directory_template
+==================
 
-Open source laptop based on BeagleBone Black
+Altium design directory template

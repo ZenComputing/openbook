@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\docs\dev_boards\BeagleBoneBlackB3_Altium\BEAGLEBONEBLACK_REV A5B.PrjPcb
+[Project2]
+ProjectPath=openbook.PrjPCB
